@@ -1,0 +1,12 @@
+# nodejs
+node_modules/
+
+# output
+output/
+
+# code editor / ide
+.vscode/
+
+
+# Các file môi trường
+.env
